@@ -1,13 +1,17 @@
 # Labb2Yatzy
 A shool project to make the Yatzy game using, vue, vuex, vue.cli, node.js framework in javascript and HTML and CSS
 
-Project setup
-npm install
-Compiles and hot-reloads for development
+<h3 align="left"> Project Setup</h3>
+<p align="left">
+npm install 
+</p>  
+<br>
+<h3 align="left"> Compiles and hot-reloads for development</h3>
+<p align="left">
 npm run serve
-Compiles and minifies for production
+</p> 
+<br>
+<h3 align="left">Compiles and minifies for production</h3>
+<p align="left">
 npm run build
-Run your tests
-npm run test
-Lints and fixes files
-npm run lint
+</p> 
